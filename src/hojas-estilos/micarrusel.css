@@ -1,0 +1,23 @@
+.carousel{
+  margin-bottom: 30px;
+
+}
+  
+  .micarrusel img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .micarrusel button {
+    padding: 10px 20px;
+    background-color: #ddd;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .micarrusel button:hover {
+    background-color: #aaa;
+  }
+  
